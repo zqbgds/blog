@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"
-  tagline: My great project tagline
+  name: "博客 笔记 日志 感悟"
+  text: "有记录才会有记忆"
+  tagline: 保持良好习惯，持续学习，持续积累，持续进步。
+  image:
+    src: /background.svg
+    alt: 背景
   actions:
     - theme: brand
       text: Markdown Examples
